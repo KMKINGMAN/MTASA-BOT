@@ -1,0 +1,18 @@
+{
+    "info_comment_1": {
+        "ar": "يمكنك وضع التوكن و البريفكس في هذا الملف او اي ان في",
+        "en": "You can put token and prefix in this file or env"
+    },
+    "baceops": {
+        "token": "",
+        "prefix": "."
+    },
+    "info_comment_2": {
+        "ar": "هنا يجب عليك وضع معلومات السيرفر الخاص بك في mta",
+        "en": "Here you should put your server information in MTA"
+    },
+    "mta": {
+        "ip": "45.146.253.177",
+        "port": 32915
+    }
+}

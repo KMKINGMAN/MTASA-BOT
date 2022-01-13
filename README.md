@@ -84,4 +84,4 @@ If you wish to contribute to the KINGMANDEV codebase or documentation, feel free
 
 ## License
 
-Discord Raid-Bot-TS is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+MTASA-BOT is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.

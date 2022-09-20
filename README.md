@@ -72,7 +72,7 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 ## Links
 
 *   [Repl.it](https://repl.it/github/KMKINGMAN/MTASA-BOT)
-*   [Discord](https://discord.gg/kingmandev)
+*   [Telegram](https://t.me/kingman4hack)
 *   [Github](https://github.com/KMKINGMAN/MTASA-BOT/)
 *   [Instgram](https://instgram.com/kingman_shellby)
 
